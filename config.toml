@@ -1,0 +1,10 @@
+
+baseURL = "https://mapdoku-blog.pages.dev/"
+languageCode = "en-us"
+title = "Mapdoku Blog"
+theme = "ananke"
+buildFuture = true
+paginate = 10
+
+[params]
+  mainSections = ["posts"]
